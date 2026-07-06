@@ -1,7 +1,7 @@
 ZACH PARK - UX/UI DESIGNER
 
 San Diego, California
-Mobile: 858.314.8551  Email: uxdesign.hello@gmail.com  URL: theuxdesign.com
+Mobile: 858.314.8551  Email: design.ninja1@gmail.com  URL: theuxdesign.com
 
 
 SUMMARY
@@ -37,6 +37,7 @@ Designed next-gen UX for an end-to-end health information system (EHR to billing
 • Collaborating on design system refinement.
 
 HP, Instant Ink
+Visual Interaction Designer, February 2018 - February 2019 (San Diego)
 Enhanced user experience for enrollment and dashboard platforms through comprehensive design efforts, spanning branding to UX/UI. Key contributions included:
 • Developing responsive web UI designs utilizing Angular Material/Bootstrap UI patterns.
 • Designing intuitive user flows and responsive UI for HP e-commerce platforms.
